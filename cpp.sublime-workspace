@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"namespace std;\t⟠"
+			],
+			[
+				"prin",
+				"printf(\"%d\",\t⟠"
+			],
+			[
+				"cou",
+				"cout\t⟠"
+			],
+			[
+				"c",
+				"chain import\t1★ pro ⟠"
+			],
+			[
+				"__nam",
+				"__name__ == '__main__':\t3★ pro ⟠"
+			],
+			[
+				"tex",
+				"text_match"
+			],
+			[
+				"firs",
+				"firstNameEmailID\tlist ⟠"
+			],
+			[
+				"n",
+				"N_itr"
+			],
+			[
+				"fir",
+				"firstNameEmailID\tlist ⟠"
+			],
+			[
+				"use",
+				"User"
+			],
+			[
+				"expe",
+				"expense_amount"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"text",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"src",
+				"srcset\tAttr"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"poi",
+				"point2"
+			],
+			[
+				"po",
+				"point1"
+			],
+			[
+				"Po",
+				"Point"
+			],
+			[
+				"LDMA",
+				"LDMA_URL"
+			],
+			[
+				"mak",
+				"make_date_time"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"sys",
+				"system_date"
+			],
+			[
+				"Exce",
+				"exceptions"
+			],
+			[
+				"Link",
+				"LinkID"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"path",
+				"PATH_TO_DELETE"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"pdf",
+				"pdfkit"
+			],
+			[
+				"HTML",
+				"HTML_FILE"
+			],
+			[
+				"date",
+				"datetime_object_hours\tdatetime ⟠"
+			],
+			[
+				"cr_actua",
+				"cr_actual_close_time"
+			],
+			[
+				"cr_actual",
+				"cr_actual_open_time\tstr ⟠"
+			],
+			[
+				"cr_open",
+				"cr_last_open_time"
+			],
+			[
+				"get_sta",
+				"get_start_time"
+			],
+			[
+				"get_cr",
+				"get_cr_type_from_user"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"__set",
+				"__set_credential_sheet"
+			],
+			[
+				"get_sit",
+				"get_site_group"
+			],
+			[
+				"Da",
+				"DataDriver\ttype ⟠"
+			],
+			[
+				"B",
+				"Autobot-BMCRemedy"
+			],
+			[
+				"exce",
+				"exceldriver\tmodule ⟠"
+			],
+			[
+				"BMC",
+				"BMCPage"
+			],
+			[
+				"ex",
+				"excelDriver"
+			],
+			[
+				"sele",
+				"select_credential_sheet"
+			],
+			[
+				"data",
+				"data_only"
+			],
+			[
+				"log",
+				"logout()\tfunction ⟠"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "variable-sized-arrays.cpp",
+			"settings":
+			{
+				"buffer_size": 451,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "c-tutorial-struct.cpp",
+			"settings":
+			{
+				"buffer_size": 429,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "c-tutorial-class.cpp",
+			"settings":
+			{
+				"buffer_size": 765,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inputf.in",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "outputf.in",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: pypy"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python3"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"console",
+				"Package Control: Install Package"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"LIVE",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 310.0,
+		"history":
+		[
+			"git status",
+			"dir",
+			"cout << \"HEllo\"",
+			"exit()",
+			"git status",
+			"2",
+			"6",
+			"print(\"Hello World\")",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving"
+	],
+	"file_history":
+	[
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving/arrays-introduction.cpp",
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving/c-tutorial-pointer.cpp",
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving/c-tutorial-functions.cpp",
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving/c-tutorial-for-loop.cpp",
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving/c-tutorial-conditional-if-else.cpp",
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving/c-tutorial-basic-data-types.cpp",
+		"/E/Python Projects/HackerRank_CPP_Problem_Solving/cpp-hello-world.cpp",
+		"/C/Users/Jibon/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build",
+		"/C/Users/Jibon/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Jibon/AppData/Roaming/Sublime Text 3/Packages/User/pypy.sublime-build",
+		"/E/Python Projects/Problem-Solution/LearnNewThings/dictionary.py",
+		"/E/Python Projects/Problem-Solution/HackerRank/Drawing Book.py",
+		"/E/Python Projects/Problem-Solution/HackerRank/picking-numbers.py",
+		"/E/Python Projects/Problem-Solution/HackerRank/magic-square-forming.py",
+		"/E/Python Projects/Problem-Solution/HackerRank/magic-squar-theory",
+		"/C/Users/Jibon/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/E/30-Days-of-Python/RegEx, Patterns, and Intro to Databases.py",
+		"/C/Users/Jibon/rima/LAB2.l",
+		"/C/Users/Jibon/Documents/PowerShell/Modules/oh-my-posh/3.83.0/themes/jandedobbeleer.omp.json",
+		"/E/Python Projects/room_management/users/templates/users/logout.html",
+		"/C/Users/Jibon/Desktop/Meal_data create.txt",
+		"/C/Users/Jibon/Desktop/Expense_Data Create.txt",
+		"/E/Python Projects/room_management/ghuri/templates/ghuri/add_expense.html",
+		"/E/Python Projects/room_management/ghuri/templates/ghuri/add_meal.html",
+		"/E/Python Projects/room_management/ghuri/templates/navigation.html",
+		"/E/Python Projects/room_management/users/templates/users/profile.html",
+		"/E/Python Projects/room_management/users/views.py",
+		"/E/Python Projects/room_management/room_management/urls.py",
+		"/E/Python Projects/room_management/Lib/site-packages/django/views/generic/base.py",
+		"/E/Python Projects/room_management/ghuri/urls.py",
+		"/E/Python Projects/room_management/ghuri/templates/ghuri/list_expenses.html",
+		"/E/Python Projects/room_management/ghuri/templates/ghuri/list_meals.html",
+		"/E/Python Projects/room_management/ghuri/templates/base.html",
+		"/E/Python Projects/room_management/ghuri/models.py",
+		"/E/Python Projects/room_management/ghuri/views.py",
+		"/E/Python Projects/room_management/ghuri/forms.py",
+		"/E/Python Projects/room_management/users/templates/users/login.html",
+		"/E/Python Projects/room_management/users/models.py",
+		"/E/Python Projects/room_management/room_management/settings.py",
+		"/E/Python Projects/room_management/users/templates/base.html",
+		"/E/Python Projects/room_management/ghuri/admin.py",
+		"/E/Python Projects/room_management/ghuri/templates/ghuri/dashboard.html",
+		"/E/Python Projects/room_management/ghuri/templates/ghuri/index.html",
+		"/E/Python Projects/jiaulislam.github.io/bmc_tools.html",
+		"/E/Python Projects/jiaulislam.github.io/index.html",
+		"/E/Coding-Projects/WebsiteDevelopment/ch8/index.html",
+		"/E/Coding-Projects/WebsiteDevelopment/ch7/index.html",
+		"/E/Coding-Projects/WebsiteDevelopment/ch7/gallery.html",
+		"/E/Coding-Projects/WebsiteDevelopment/ch7/bread.html",
+		"/E/Coding-Projects/WebsiteDevelopment/ch7/burgers.html",
+		"/E/Coding-Projects/WebsiteDevelopment/ch7/tabouleh.html",
+		"/E/Coding-Projects/WebsiteDevelopment/index.html",
+		"/C/Users/Jiaul Islam Jibon/AppData/Roaming/Sublime Text 3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/E/Python/test.py",
+		"/E/Python Projects/AutoBotBMCRemedy/pages/ldma.py",
+		"/E/Python Projects/AutoBotBMCRemedy/tests/testCreateRequest.py",
+		"/E/Python Projects/AutoBotBMCRemedy/driver.py",
+		"/E/Python Projects/AutoBotBMCRemedy/utilities/read_excel_data.py",
+		"/E/Python Projects/AutoBotBMCRemedy/utilities/static_data.py",
+		"/E/Python Projects/AutoBotBMCRemedy/utilities/data_export.py",
+		"/E/Python Projects/AutoBotBMCRemedy/utilities/ldmalocators.py",
+		"/E/Python Projects/AutoBotBMCRemedy/pages/createrequest.py",
+		"/E/Python Projects/AutoBotBMCRemedy/utilities/make_data.py",
+		"/E/Python Projects/AutoBotBMCRemedy/utilities/locators.py",
+		"/C/Users/Jiaul Islam Jibon/Desktop/test.html",
+		"/E/AutoBotBMCRemedy/utils/locators.py",
+		"/E/AutoBotBMCRemedy/resources/BMC_Remedy.py",
+		"/E/Auto_Bot_BMCRemedy/excelDriver.py",
+		"/C/Users/Jiaul Islam Jibon/Documents/PowerShell/Microsoft.PowerShell_profile.ps1",
+		"/E/Auto_Bot_BMCRemedy/BMCDriver.py",
+		"/E/Auto_Bot_BMCRemedy/main.py",
+		"/E/Auto-Bot_BMCRemedy/BMCDriver.py",
+		"/E/Auto-Bot_BMCRemedy/main.py",
+		"/E/Auto-Bot_BMCRemedy/excelDriver.py",
+		"/E/Auto-Bot_BMCRemedy/AutoBot-BMCRemedy/CloseBMCRemedy.py",
+		"/E/Auto-Bot_BMCRemedy/AutoBot-BMCRemedy/main.py",
+		"/C/Users/Jiaul Islam Jibon/PycharmProjects/AutoBot-BMCRemedy/multicr.py",
+		"/C/Users/JIAULI~1/AppData/Local/Temp/kite_tutorial.py",
+		"/E/CSE CLASS/Structure for NUB Students.c",
+		"/E/CSE CLASS/2nd Semester/Data Structures_SanjidaAkhter/DS Homeworks/Stack_Using_Array.cpp",
+		"/E/CSE CLASS/Dos/DOS_Project_ECSE/getnode.hpp",
+		"/E/CSE CLASS/Dos/DOS_Project_ECSE/main.cpp",
+		"/E/CSE CLASS/Dos/main.cpp",
+		"/E/CSE CLASS/Dos/getnode.hpp"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\Python Projects\\HackerRank_CPP_Problem_Solving"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "variable-sized-arrays.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "c-tutorial-struct.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "c-tutorial-class.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "inputf.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "outputf.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.620629575403,
+			0.815197657394,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 115.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++14.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
